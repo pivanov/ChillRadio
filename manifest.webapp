@@ -1,6 +1,7 @@
 {
   "name": "Chill Radio",
   "description": "Chill Radio",
+  "version": "1.0.0",
   "launch_path": "/index.html",
   "permissions": {
     "audio-channel-content": {
