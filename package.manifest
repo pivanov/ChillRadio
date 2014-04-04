@@ -1,0 +1,9 @@
+{
+  "name": "Chill Radio",
+  "version": "1.0.0",
+  "package_path" : "http://pivanov.github.io/ChillRadio/ChillRadio.zip",
+  "developer": {
+    "name": "Pavel Ivanov",
+    "url": "https://pivanov.com"
+  }
+}

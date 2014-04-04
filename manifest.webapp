@@ -2,13 +2,12 @@
   "name": "Chill Radio",
   "description": "Chill Radio",
   "version": "1.0.0",
-  "launch_path": "/index.html",
+  "launch_path": "/ChillRadio/app.html",
   "permissions": {
     "audio-channel-content": {
       "description": "Use the audio channel for the music player"
     }
   },
-  "package_path" : "http://pivanov.github.io/ChillRadio/ChillRadio.zip",
   "developer": {
     "name": "Pavel Ivanov",
     "url": "https://pivanov.com"
@@ -21,7 +20,7 @@
   },
   "default_locale": "en-US",
   "icons": {
-    "128": "/assets/img/128x128.png"
+    "128": "/ChillRadio/assets/img/128x128.png"
   },
-  "orientation": "default"
+  "orientation": "portrait"
 }
