@@ -7,9 +7,10 @@
       "description": "Use the audio channel for the music player"
     }
   },
+  "package_path" : "http://pivanov.github.io/ChillRadio/ChillRadio.zip",
   "developer": {
-    "name": "FirefoxOS Team",
-    "url": "https://github.com/mozilla-b2g/gaia"
+    "name": "Pavel Ivanov",
+    "url": "https://pivanov.com"
   },
   "locales": {
     "en-US": {
