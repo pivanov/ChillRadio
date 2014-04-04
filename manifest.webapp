@@ -1,0 +1,25 @@
+{
+  "name": "Chill Radio",
+  "description": "Chill Radio",
+  "launch_path": "/index.html",
+  "permissions": {
+    "audio-channel-content": {
+      "description": "Use the audio channel for the music player"
+    }
+  },
+  "developer": {
+    "name": "FirefoxOS Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Chill Radio",
+      "description": "Chill Radio"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/assets/img/128x128.png"
+  },
+  "orientation": "default"
+}
